@@ -1,0 +1,79 @@
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 1 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 2 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 3 of 3
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 20 s
+[20.498475790023804]
+Total prediction run time = 0 day: 0 hr: 0 min: 20 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 1 of 3
+failed to create mask folder
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 2 of 3
+failed to create mask folder
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 3 of 3
+failed to create mask folder
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 15 s
+[15.38552737236023]
+Total prediction run time = 0 day: 0 hr: 0 min: 15 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 1 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 2 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 3 of 3
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 12 s
+[12.925702810287476]
+Total prediction run time = 0 day: 0 hr: 0 min: 12 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_human/DATA
+model run 1 of 3
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_human/DATA
+model run 2 of 3
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/train_human/DATA
+model run 3 of 3
+Merging multiple models predictions.
+prediction run time = 0 hr: 3 min: 48 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 1 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 2 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/train_human/
+model run 3 of 3
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 2 s
+[228.54119777679443, 2.115259885787964]
+Total prediction run time = 0 day: 0 hr: 3 min: 50 s

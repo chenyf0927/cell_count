@@ -1,0 +1,247 @@
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 3
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 2 of 3
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 3 of 3
+Merging multiple models predictions.
+prediction run time = 0 hr: 1 min: 41 s
+[101.18864560127258]
+Total prediction run time = 0 day: 0 hr: 1 min: 41 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 3
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 2 of 3
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 3 of 3
+Merging multiple models predictions.
+prediction run time = 0 hr: 1 min: 27 s
+[87.11719393730164]
+Total prediction run time = 0 day: 0 hr: 1 min: 27 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2_mask/_3
+model run 1 of 1
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 25 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2_mask/_2
+model run 1 of 1
+
+*** No instances to display *** 
+
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 6 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2_mask/_1
+model run 1 of 1
+
+*** No instances to display *** 
+
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 6 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2_mask_avg
+model run 1 of 1
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 6 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+Merging multiple models predictions.
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 28 s
+[28.673316955566406]
+Total prediction run time = 0 day: 0 hr: 0 min: 28 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 2 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 3 of 3
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 0 min: 43 s
+[43.233787536621094]
+Total prediction run time = 0 day: 0 hr: 0 min: 43 s
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 3
+failed to create mask folder
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 2 of 3
+failed to create mask folder
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 3 of 3
+failed to create mask folder
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+Merging multiple models predictions.
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 3
+1
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 2 of 3
+1
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 3 of 3
+1
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+1
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+Merging multiple models predictions.
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+1
+6
+4
+5
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+Merging multiple models predictions.
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+1
+6
+4
+5
+7
+1
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+Merging multiple models predictions.
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 36 s
+[36.178757429122925]
+Total prediction run time = 0 day: 0 hr: 0 min: 36 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 36 s
+[36.840681076049805]
+Total prediction run time = 0 day: 0 hr: 0 min: 36 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to deploy the inference, skipping...
+prediction run time = 0 hr: 0 min: 36 s
+[36.301779985427856]
+Total prediction run time = 0 day: 0 hr: 0 min: 36 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+2
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 35 s
+[35.691492319107056]
+Total prediction run time = 0 day: 0 hr: 0 min: 35 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+2
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 37 s
+[37.251232862472534]
+Total prediction run time = 0 day: 0 hr: 0 min: 37 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 43 s
+[43.02575922012329]
+Total prediction run time = 0 day: 0 hr: 0 min: 43 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2_mask/_1
+model run 1 of 1
+3
+1
+2
+failed to deploy the inference, skipping...
+prediction run time = 0 hr: 0 min: 32 s
+>Loading model from:  trained_network/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+3
+1
+2
+failed to deploy the inference, skipping...
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 9 s
+[32.18586707115173, 9.366910219192505]
+Total prediction run time = 0 day: 0 hr: 0 min: 41 s
+>Loading model from:  /root/users/chenyf1/Usiigaci/Mask R-CNN/trainednetwork/cell20181111T1532/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+3
+1
+2
+failed to deploy the inference, skipping...
+prediction run time = 0 hr: 0 min: 39 s
+[39.71198558807373]
+Total prediction run time = 0 day: 0 hr: 0 min: 39 s
+>Loading model from:  /root/users/chenyf1/Usiigaci/Mask R-CNN/trainednetwork/cell20181111T1532/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2_mask/_1
+model run 1 of 1
+prediction run time = 0 hr: 0 min: 34 s
+>Loading model from:  /root/users/chenyf1/Usiigaci/Mask R-CNN/trainednetwork/cell20181111T1532/mask_rcnn_cell_0499.h5
+prediction for:  /root/users/chenyf1/train_2/data2
+model run 1 of 1
+failed to create mask folder
+failed to create avg mask folder
+prediction run time = 0 hr: 0 min: 19 s
+[34.44611310958862, 19.58610963821411]
+Total prediction run time = 0 day: 0 hr: 0 min: 54 s

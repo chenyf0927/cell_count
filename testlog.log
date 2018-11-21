@@ -1,0 +1,16 @@
+>Loading model from:  trained_network/Usiigaci_1.h5
+prediction for:  /root/users/chenyf1/test/T98G_sample
+model run 1 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_2.h5
+prediction for:  /root/users/chenyf1/test/T98G_sample
+model run 2 of 3
+failed to deploy the inference, skipping...
+>Loading model from:  trained_network/Usiigaci_3.h5
+prediction for:  /root/users/chenyf1/test/T98G_sample
+model run 3 of 3
+failed to deploy the inference, skipping...
+Merging multiple models predictions.
+prediction run time = 0 hr: 15 min: 3 s
+[903.6087954044342]
+Total prediction run time = 0 day: 0 hr: 15 min: 3 s
